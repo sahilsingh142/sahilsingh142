@@ -10,23 +10,4 @@
 - 🔐 Handling **authentication, REST APIs, and frontend–backend integration**  
 - 🎯 Goal: Build real-world full-stack projects and grow as a professional MERN developer  
 
----
-
-## 🛠️ Skills & Technologies
-
-### 🌐 Frontend
-- HTML  
-- CSS  
-- JavaScript (ES6+)  
-- React.js  
-- Tailwind CSS  
-- Redux Toolkit  
-
-### ⚙️ Backend
-- Node.js  
-- Express.js  
-- MongoDB  
-
-### 🔧 Tools & Others
-- Git  
-- GitHub  
+--
