@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sahil Singh  
-🚀 MERN Stack Developer | React • Node.js • MongoDB  
+🚀 MERN Stack Developer | React • Express.js • MongoDB  
 💡 Passionate about building clean, interactive, and user-friendly web experiences
 
 ---
